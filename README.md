@@ -11,7 +11,7 @@ A Micro B USB jack is included to allow firmware upgrade via. STM32 DFU, and pot
 A mechanical enclosure design is available for the device (see 'Enclosure').
 ## Project Status
 The project is currently in its B rev - board bring-up has been done in Rev A and Rev B has all changes implemented. 
-I started this project to learn more about more complex 4-layer mixed-signal PCB design, so the full firmware was not my promary concern. I have therefore decided to make this project open-source, as I have learnt what I wanted to learn from it and if anyone else would like to dive deeper with the firmware, they can potentially also get something out of this project, or take it further.
+I started this project to learn more about more complex 4-layer mixed-signal PCB design, so the full firmware was not my primary concern. I have therefore decided to make this project open-source, as I have learnt what I wanted to learn from it and if anyone else would like to dive deeper with the firmware, they can potentially also get something out of this project or take it further.
 ## Hardware Summary
 ### STM32F401CBU7 MCU
 The MCU processes all IO and uses I2C, I2S and SPI to interface with the OLED, CODEC and Flash memory, respectively. The flash memory is included to expand audio sample storage capacity.
