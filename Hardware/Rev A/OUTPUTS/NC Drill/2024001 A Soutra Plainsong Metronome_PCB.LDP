@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\40015802\OneDrive - Edinburgh Napier University\Altium Projects\2024001 A Soutra Plainsong Metronome\2024001 A Soutra Plainsong Metronome\2024001 A Soutra Plainsong Metronome_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=2024001 a soutra plainsong metronome_pcb-roundholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=2024001 a soutra plainsong metronome_pcb-slotholes.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=2024001 a soutra plainsong metronome_pcb-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

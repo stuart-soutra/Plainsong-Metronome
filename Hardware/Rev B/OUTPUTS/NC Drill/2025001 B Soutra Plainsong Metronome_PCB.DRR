@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 2025001 B Soutra Plainsong Metronome_PCB.PcbDoc   07/11/2025  10:42:35
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 2025001 B Soutra Plainsong Metronome_PCB-RoundHoles.TXT
+ASCII SlotHoles File : 2025001 B Soutra Plainsong Metronome_PCB-SlotHoles.TXT
+ASCII RectHoles File : 2025001 B Soutra Plainsong Metronome_PCB-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             9         PTH        11.00mm (0.43inch)
+T2      0.3mm (12mil)                                             Round             385       PTH        1563.30mm (61.55inch)
+T3      0.6mm (24mil)                                             Slot              2         PTH        15.43mm (0.61inch)
+T4      0.8mm (31mil)                                             Rectangle         3         PTH        28.82mm (1.13inch)
+T5      0.85mm (33mil)                                            Round             2         PTH        5.00mm (0.20inch)
+T6      1mm (39mil)                                               Round             14        PTH        305.82mm (12.04inch)
+T7      1.016mm (40mil)                                           Round             3         PTH        5.10mm (0.20inch)
+T8      1.2mm (47mil)                                             Round             2         PTH        2.40mm (0.09inch)
+T9      1.499mm (59mil)                                           Round             8         PTH        88.01mm (3.46inch)
+T10     2mm (79mil)                                               Slot              4         PTH        257.61mm (10.14inch)
+T11     2.5mm (98mil)                                             Round             10        PTH        157.97mm (6.22inch)
+T12     3.5mm (138mil)                                            Round             5         PTH        415.14mm (16.34inch)
+T13     1mm (39mil)                                               Round             8         NPTH       88.20mm (3.47inch)
+T14     1.702mm (67mil)                                           Round             8         NPTH       93.32mm (3.67inch)
+T15     3.988mm (157mil)                                          Round             4         NPTH       73.00mm (2.87inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              467
+
+Total Processing Time (hh:mm:ss) : 00:00:00
