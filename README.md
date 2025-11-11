@@ -40,3 +40,5 @@ Feel free to help and contribute with these features:
 - External software for sample uploading
 ## Licence
 This project is released under the CERN OHL V2 - Strongly Reciprocal Licence - see 'LICENCE.txt' for full terms.
+## PCB Artwork Disclaimer
+This project includes original fan artwork inspired by The Cure’s album Wish and Robert Smith’s imagery. It is used here non-commercially, as a tribute, for educational and artistic purposes.
